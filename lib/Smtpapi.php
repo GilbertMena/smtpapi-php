@@ -1,6 +1,6 @@
 <?php
-
-class Smtpapi {
+namespace SMTPApi;
+class SMTPApi {
   const VERSION = "0.0.1";
 
   public static function register_autoloader() {

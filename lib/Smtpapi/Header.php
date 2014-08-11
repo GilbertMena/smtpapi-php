@@ -1,6 +1,6 @@
 <?php
 
-namespace Smtpapi;
+namespace SMTPApi\SMTPApi;
 
 class Header {
   public $to           = array();
